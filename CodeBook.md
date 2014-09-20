@@ -102,7 +102,7 @@ Tidy data set has folowing variables:
 	Values are in range 1 to 30.
 	
 3.	All other variables come from merged X_train.txt and X_test.txt.
-	These variables are summarized by group determined with first two variables by mean function.
+	These variables are summarized by group determined with first two variables and mean function.
 	
 =================================================	
 	
